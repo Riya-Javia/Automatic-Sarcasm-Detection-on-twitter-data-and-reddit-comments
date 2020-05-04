@@ -20,7 +20,7 @@ i)reddit_train has the preprocessed trained dataset
 ii)reddit_test has the preprocessed trained dataset  
 iii)Reddit_codes has the 2 notebook .ipynb files   
 
-**3)Sentiment**
+**3)Sentiment**  
 i)Codes - Contains 1 notebook .ipynb file   
 ii)Resources - It contains raw as well as preprocessed dataset  
 	
