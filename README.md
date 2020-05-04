@@ -8,19 +8,19 @@ There have been two datasets used in the project
 2) Reddit comments dataset (Khodak)
 
 **Folders**
-1) Twitter_dataset_Ghosh  
+**1) Twitter_dataset_Ghosh**
 i) Codes - Contains 3 notbook .ipynb files  
 ii)Resources - Contains all the raw and the preprocessed data and the outputs at intermediate states 
 
-2) Reddit_dataset_Khodak	
-The main SARC(khodak)  dataset has not been uploaded due to its size.
-It can be downloaded from https://www.kaggle.com/danofer/sarcasm and trained balance sarcasm,csv has been used 
+**2) Reddit_dataset_Khodak**	
+The main SARC(khodak)  dataset has not been uploaded due to its size.  
+It can be downloaded from https://www.kaggle.com/danofer/sarcasm and trained balance sarcasm,csv has been used   
 The content of the reddit dataset has been split into different folders due to its dataset size
 i)reddit_train has the preprocessed trained dataset
 ii)reddit_test has the preprocessed trained dataset
 iii)Reddit_codes has the 2 notebook .ipynb files 
 
-3)Sentiment
+**3)Sentiment**
 i)Codes - Contains 1 notebook .ipynb file 
 ii)Resources - It contains raw as well as preprocessed dataset
 	
