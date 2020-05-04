@@ -8,7 +8,9 @@ There have been two datasets used in the project
 2) Reddit comments dataset (Khodak)
 
 **Folders**
-1) Twitter_dataset_Ghosh  i) Codes - Contains 3 notbook .ipynb files  ii)Resources - Contains all the raw and the preprocessed data and the outputs at intermediate states 
+1) Twitter_dataset_Ghosh  
+i) Codes - Contains 3 notbook .ipynb files  
+ii)Resources - Contains all the raw and the preprocessed data and the outputs at intermediate states 
 
 2) Reddit_dataset_Khodak	
 
@@ -22,8 +24,8 @@ ii)reddit_test has the preprocessed trained dataset
 iii)Reddit_codes has the 2 notebook .ipynb files 
 
 3)Sentiment
-	i)Codes - Contains 1 notebook .ipynb file 
-	ii)Resources - It contains raw as well as preprocessed dataset
+i)Codes - Contains 1 notebook .ipynb file 
+ii)Resources - It contains raw as well as preprocessed dataset
 	
 
 **Dependencies to run the project**
